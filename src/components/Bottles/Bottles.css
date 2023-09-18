@@ -1,0 +1,9 @@
+.bottle-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.bottle-container img{
+    width: 100%;
+    border-radius: 10px;
+}
